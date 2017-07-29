@@ -12,7 +12,7 @@
 
 
 	<rule from="^http://(?:www\.)?ngpvan\.com/"
-		to="https://ngpvan.ngpvanhost.com/" />
+		to="https://www.ngpvan.com/" />
 
 	<rule from="^http://(\w+)\.ngpvanhost\.com/"
 		to="https://$1.ngpvanhost.com/" />
